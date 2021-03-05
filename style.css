@@ -1,0 +1,41 @@
+body
+{
+    font-family: Verdana;
+    color: black;
+    background: #87cefa;
+}
+.profile-card
+{
+width: 450px;
+margin: auto;
+background: #ffebcd;
+box-shadow:0 4px 10px 0 rgba(0,0,0,0.5);
+}
+.image-container
+{
+    position: relative;
+}
+.info
+{
+  color: black;
+  margin-right: 16px;
+}
+.main-container
+{
+    padding: 20px;
+}
+
+.skill-bar
+{
+    background-color:#7a7ace; ; /* ini doang*/
+    border-radius: 30px;
+
+}
+.progress-bar
+{
+    padding: 0.1em 30px;
+    border-radius: 30px;
+    text-align: center;
+    color: #fff;
+    background-color: #191970;
+}
